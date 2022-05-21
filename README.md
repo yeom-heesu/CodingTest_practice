@@ -1,14 +1,18 @@
 # CodingTest_practie
 
-- 자료구조 & 알고리즘 개념 정리
-
-1. Stack (LIFO)
- - Last In First Out (후입선출)
- - 나중에 들어온 데이터가 가장 먼저 나감
- - push, pop
-
-2. Queue (FIFO)
- - First In First Out (선입선출)
- - 먼저 들어온 데이터가 가장 먼저 나감
- - inqueue , dequeue
- 
+## 목차
+- Data Structures
+  - * Stack
+  - * Queue
+  - Linked-list
+  - Doubly linked-list
+  - Circular linked-list
+  
+- Algorithm
+  - Tree
+  - * Binary Search Tree
+  - Heap
+  - Winner Tree, Loser Tree  
+  - Graph
+  - * DFS/BFS 
+  - kruskal,prim,solin etc.

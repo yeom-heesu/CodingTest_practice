@@ -36,6 +36,7 @@ def solution(priorities, location):
             queue.append(temp)
             
         else:
+            #출력할때마다 cnt ++
             cnt +=1 
             queue.pop(0)
             if int(target["idx"]) == location:
